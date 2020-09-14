@@ -1,0 +1,1 @@
+tf destroy -force

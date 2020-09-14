@@ -1,0 +1,1 @@
+tf apply -auto-approve
