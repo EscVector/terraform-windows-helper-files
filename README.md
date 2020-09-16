@@ -1,7 +1,7 @@
 # terraform-widows-helper-files
 Terraform Windows helper files for fast typing and quick cut-n-paste
 
-tf.exe is linked to terraform.exe fast typing at.
+tf.exe is linked to terraform.exe fast typing at cmd prompt.
 
 Put these file in your path and open a new command prompt.
 
