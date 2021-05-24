@@ -11,3 +11,5 @@ Example:
 
 tfs replaces the quoted strings with commented quoted strings
 
+Note: https://github.com/hashicorp/terraform/blob/v0.15.4/CHANGELOG.md
+Terraform v0.15.4 broke terraform destroy -force
