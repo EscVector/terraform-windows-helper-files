@@ -1,1 +1,1 @@
-tf destroy -force
+tf destroy -auto-approve
